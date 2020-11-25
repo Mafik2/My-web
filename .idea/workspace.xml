@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="caeea9cd-208b-4e26-898f-4b809f74b1bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gallery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coconut_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +66,14 @@
       <workItem from="1605369532598" duration="649000" />
       <workItem from="1605627844486" duration="3631000" />
       <workItem from="1605715521200" duration="1489000" />
+      <workItem from="1605724146324" duration="2375000" />
+      <workItem from="1605726538247" duration="2516000" />
+      <workItem from="1605800275980" duration="1396000" />
+      <workItem from="1605873114677" duration="18000" />
+      <workItem from="1606151972368" duration="3429000" />
+      <workItem from="1606212892234" duration="710000" />
+      <workItem from="1606319149210" duration="1884000" />
+      <workItem from="1606328992745" duration="5239000" />
     </task>
     <servers />
   </component>
@@ -79,9 +89,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="758" y="222" key="RollbackChangesDialog/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1605716409072" />
-    <state x="342" y="203" key="new project wizard" timestamp="1604907527968">
+    <state x="342" y="203" key="new project wizard" timestamp="1606216041407">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="342" y="203" key="new project wizard/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1604907527968" />
+    <state x="342" y="203" key="new project wizard/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1606216041407" />
   </component>
 </project>
