@@ -2,11 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="caeea9cd-208b-4e26-898f-4b809f74b1bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Gallery.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coconut_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/Gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-login.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin-login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-dev/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-dev/.github/ISSUE_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-dev/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-dev/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-dev/.jscsrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-dev/.jshintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-dev/DEPLOY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-dev/Gruntfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-dev/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-dev/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-dev/ROADMAP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-dev/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-dev/dist/css/lightbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-dev/dist/css/lightbox.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-dev/dist/images/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-dev/dist/images/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-dev/dist/images/next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-dev/dist/images/prev.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-dev/dist/js/lightbox-plus-jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-dev/dist/js/lightbox-plus-jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-dev/dist/js/lightbox-plus-jquery.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-dev/dist/js/lightbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-dev/dist/js/lightbox.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-dev/dist/js/lightbox.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-dev/examples/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-dev/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-dev/src/css/lightbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-dev/src/images/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-dev/src/images/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-dev/src/images/next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-dev/src/images/prev.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox2-dev/src/js/lightbox.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +105,15 @@
       <workItem from="1606151972368" duration="3429000" />
       <workItem from="1606212892234" duration="710000" />
       <workItem from="1606319149210" duration="1884000" />
-      <workItem from="1606328992745" duration="5239000" />
+      <workItem from="1606328992745" duration="6516000" />
+      <workItem from="1606338249604" duration="1630000" />
+      <workItem from="1606399561459" duration="6679000" />
+      <workItem from="1606408447868" duration="600000" />
+      <workItem from="1606418689837" duration="519000" />
+      <workItem from="1606476556853" duration="5639000" />
+      <workItem from="1606495576897" duration="4243000" />
+      <workItem from="1606502885129" duration="7281000" />
+      <workItem from="1606514930717" duration="4089000" />
     </task>
     <servers />
   </component>
@@ -89,6 +129,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="758" y="222" key="RollbackChangesDialog/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1605716409072" />
+    <state x="-1920" y="0" width="1550" height="880" maximized="true" key="dock-window-1" timestamp="1606519023964">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1920" y="0" width="1550" height="880" maximized="true" key="dock-window-1/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1606519023964" />
+    <state x="-1920" y="0" width="1550" height="880" key="dock-window-2" timestamp="1606519023964">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1920" y="0" width="1550" height="880" key="dock-window-2/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1606519023964" />
     <state x="342" y="203" key="new project wizard" timestamp="1606216041407">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
