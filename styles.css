@@ -59,6 +59,15 @@ button:hover {
 	margin-left: 35%;
 	margin-right: 35%;
 }
+.container-log {
+	padding: 16px;
+	float: left;
+	margin-left: 35%;
+	margin-right: 35%;
+}
+.container-log a {
+	font-family: sans-serif;
+}
 
 .psw {
 	font-family: sans-serif;
@@ -156,7 +165,7 @@ div.gallery img {
 }
 .rada {
 	display: inline-block;
-	background-color: #e2e2e2;
+	background-color: white;
 }
 .nadpis-kontakt {
 	font-family: sans-serif;
@@ -168,7 +177,7 @@ div.gallery img {
 
 .container div {
 	display: flex;
-	padding: 6px 20px 4px 30px;
+	padding: 25px 20px 25px 27px;
 }
 .container div i {
 	font-size: 300%;
@@ -177,4 +186,19 @@ div.gallery img {
 	display: flex;
 
 }
+table {
+	font-family: arial, sans-serif;
+	border-collapse: collapse;
+	width: 100%;
+}
 
+td, th {
+	border: 1px solid white;
+	text-align: left;
+	padding: 8px;
+}
+
+tr:nth-child(even) {
+	background-color: #606060;
+	color: white;
+}

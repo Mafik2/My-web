@@ -7,38 +7,6 @@
       <change beforePath="$PROJECT_DIR$/admin-login.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin-login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lightbox2-dev/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lightbox2-dev/.github/ISSUE_TEMPLATE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lightbox2-dev/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lightbox2-dev/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lightbox2-dev/.jscsrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lightbox2-dev/.jshintrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lightbox2-dev/DEPLOY.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lightbox2-dev/Gruntfile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lightbox2-dev/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lightbox2-dev/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lightbox2-dev/ROADMAP.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lightbox2-dev/bower.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lightbox2-dev/dist/css/lightbox.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lightbox2-dev/dist/css/lightbox.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lightbox2-dev/dist/images/close.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lightbox2-dev/dist/images/loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lightbox2-dev/dist/images/next.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lightbox2-dev/dist/images/prev.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lightbox2-dev/dist/js/lightbox-plus-jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lightbox2-dev/dist/js/lightbox-plus-jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lightbox2-dev/dist/js/lightbox-plus-jquery.min.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lightbox2-dev/dist/js/lightbox.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lightbox2-dev/dist/js/lightbox.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lightbox2-dev/dist/js/lightbox.min.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lightbox2-dev/examples/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lightbox2-dev/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lightbox2-dev/src/css/lightbox.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lightbox2-dev/src/images/close.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lightbox2-dev/src/images/loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lightbox2-dev/src/images/next.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lightbox2-dev/src/images/prev.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lightbox2-dev/src/js/lightbox.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,7 +81,7 @@
       <workItem from="1606476556853" duration="5639000" />
       <workItem from="1606495576897" duration="4243000" />
       <workItem from="1606502885129" duration="7281000" />
-      <workItem from="1606514930717" duration="4089000" />
+      <workItem from="1606514930717" duration="11018000" />
     </task>
     <servers />
   </component>
